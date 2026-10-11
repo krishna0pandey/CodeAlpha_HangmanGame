@@ -13,7 +13,14 @@ This is a simple console-based Hangman Game developed using Python as part of th
 
 ## Technologies Used
 - Python
-- Python's built-in random module
+- random module
+- Lists
+- Sets
+- Strings
+- Loops ("for" and "while")
+- Conditional statements ("if-else")
+- Functions
+- Input validation
 
 ## How to Run
 1. Install Python.
